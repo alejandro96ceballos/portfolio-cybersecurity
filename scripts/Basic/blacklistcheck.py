@@ -25,7 +25,6 @@ class BlacklistCheck:
             else:
                 print(self.insecure_passwords)
 
-    #brute force checker for 1950-2025 year of birth passwords
             
 
 
