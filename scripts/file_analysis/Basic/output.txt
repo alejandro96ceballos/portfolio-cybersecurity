@@ -1,0 +1,14 @@
+The password hola123 is not safe because is 8 or less characters, is only written in lower characters, It does not contain any symbols
+The password 123456 is not safe because only contains numbers, is 8 or less characters, is only written in lower characters, It does not contain any symbols, It appears in compromised passwords files
+The password m1l4gr0s is not safe because is 8 or less characters, is only written in lower characters, It does not contain any symbols
+The password password is not safe because is 8 or less characters, is only written in lower characters, It does not contain any symbols, It appears in compromised passwords files
+The password Admin2023 is not safe because It does not contain any symbols
+The password perrito2021 is not safe because is only written in lower characters, It does not contain any symbols
+The password qwerty is not safe because is 8 or less characters, is only written in lower characters, It does not contain any symbols, It appears in compromised passwords files
+The password soloenlaces is not safe because is only written in lower characters, It does not contain any symbols
+The password 1234 is not safe because only contains numbers, is 8 or less characters, is only written in lower characters, It does not contain any symbols
+The password LetMeIn is not safe because is 8 or less characters, It does not contain any symbols
+The password dragon is not safe because is 8 or less characters, is only written in lower characters, It does not contain any symbols, It appears in compromised passwords files
+The password seguraClave is not safe because It does not contain any symbols
+The password P@ssword! is safeThe password valencia95 is not safe because is only written in lower characters, It does not contain any symbols
+The password justdoit is not safe because is 8 or less characters, is only written in lower characters, It does not contain any symbols

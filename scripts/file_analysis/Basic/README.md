@@ -11,6 +11,9 @@ Detects weak passwords from a blacklist file inside a password file
 Obtains unique IPs inside a .log file.
 Obtains the frecuency of acces of each IP in the .log file
 
+- **password_analyzer.py**
+Checks for known vulnerability traits in passwords inside a password file and checks if they are compromised
+
 - .txt and .log files
 
 Sample files to test the scripts
