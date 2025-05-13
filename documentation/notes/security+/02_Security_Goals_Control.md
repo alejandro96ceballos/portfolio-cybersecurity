@@ -1,18 +1,18 @@
-## Security Goals and Control
+# Security Goals and Control
 
-# Non-repudiation
+## Non-repudiation
 
 Enoforcing the inavility of a subject to deny that they participated in a digital operation
 
 ## AAA
 
-# Character mode vs Packet mode
+### Character mode vs Packet mode
 
-* Character mode
+### Character mode
 
 Sends keystrokes or commands to a network admission device
 
-* Packet mode
+### Packet mode
 
 Network admission serves as proxy for authentication on behalf of services as DNS, FTP...
 
@@ -21,7 +21,7 @@ Authentication and authorization should happen before a connection is establshed
 
 ## Authentication
 
-* People
+### People
 
 - Username and password
 - Smart card token or fob
@@ -29,13 +29,13 @@ Authentication and authorization should happen before a connection is establshed
 - Biometric attributes
 - QR codes on private devices
 
-* Systems (NPE)
+### Systems (NPE)
 
 - Endpoint authentication 
 
-# Models
+## Models
 
-* DAC
+### DAC
 
 - Grants access control decisions to owners and custodians
 - Each resource has an owner who dictates permissions or shares
@@ -43,7 +43,7 @@ Authentication and authorization should happen before a connection is establshed
 - Flexible but inconsistent controls
 - Prone to privilege creep
 
-* RBAC
+### RBAC
 
 - Access is asigned within predetermined roles
 - Users are asigned roles not permissions directly
@@ -52,7 +52,7 @@ Authentication and authorization should happen before a connection is establshed
 
 Both are combinable
 
-* MAC
+### MAC
 
 - Mathematical model with strict predefined labels and rules
 - Classification levels(top secret, secret, confidential...)
@@ -60,13 +60,13 @@ Both are combinable
 - Rules comapare permissions and labels to determine authorization
 - No owner, comite based
 
-* ABAC
+### ABAC
 
 - Authorization based on attributes given to each user
 - Combination of discretional and non-discretional methods
 - Attributes can be environmental, user based, resource based...
 
-* ABDAC
+### ABDAC
 
 - Combination of ABAC and DAC
 - Considers dynamic factors as risk assessment, user attributes, resource attributes and contextual information
@@ -74,7 +74,7 @@ Both are combinable
 - Fine-grained and context-aware access control. Zero-trust.
 - Can include ML
 
-* Rule-based access control
+## Rule-based access control
 
 - Rules define condictions to be met to be authorized such as user attributes, time of acces, IP adress, meta-data...
 
@@ -82,7 +82,7 @@ Both are combinable
 
 ## Categories
 
-* Technical controls
+### Technical controls
 
 - Confidentiality, integrity, authenticity and availability protocols runned by the system
 - Defense against unauthorized access or misuse
@@ -90,17 +90,17 @@ Both are combinable
 
 Device hardening, IAM, cryptographic key management, cloud-based threat modeling tools, SIEM and SOAR
 
-* Managerial controls
+### Managerial controls
 
 - Policies, procedures, guidelines. Set of rules for people to follow on an organization systems use.
 
-* Operational controls
+### Operational controls
 
 - Ongoing maintenance
 - Monitoring controls
 - Incident response
 
-* Physical controls
+### Physical controls
 
 - Barriers
 - Security employees
@@ -112,7 +112,7 @@ Device hardening, IAM, cryptographic key management, cloud-based threat modeling
 - Safes, cabinets, security areas
 - Fire detection and suppression
 
-* Control types
+## Control types
 
 - Preventive
 

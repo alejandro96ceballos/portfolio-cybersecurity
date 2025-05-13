@@ -40,7 +40,7 @@ Following PoLP brings Security, Compliance, Decreased malware and Productivity
 
 ## Threats to Information Privacy (Confidentiality)
 
-* Sensible data
+### Sensible data
  
  - Personal Identifiable Information PII
  - Passwords
@@ -68,21 +68,21 @@ Redundancy of methods is needed, implementing layers of security aproaches succe
 
 ## Threats to integrity
 
-* Common threats
+### Common threats
 
 - Human error
 - Malware
 - Hardware and devices
 - Transference errors
 
-## Measures to implement
+### Measures to implement
 
 - Signatures and certificates
 - Audits
 - Physical security
 - Services regular audits and checks
 
-#Threats to availavility
+## Threats to availavility
 
 ### Common threats
 
@@ -104,22 +104,22 @@ Redundancy of methods is needed, implementing layers of security aproaches succe
 - Data destroying (physical and not physical)
 
 
-## Antimalware and antivirus
+# Antimalware and antivirus
 
-### Types of malware
+## Types of malware
 
 - Viruses (hijacking for replication through .exe files)
 - Fileless malware
 - Trojans
 - Worms
 
-### Antivirus/Antimalware
+## Antivirus/Antimalware
 
 Prevent, detect and remove. This software is not effective against new threats but really good at preventing and detecting known ones.
 
 Can also detect phising, web impersonation and spam.
 
-* Types
+### Types
 
 - Built-in
 - Commercial products
@@ -145,7 +145,7 @@ Rules-based monitoring for incoming and outgoing traffic, hardware or software b
 - Network based
 - Host-based
 
-## Advantages
+### Advantages
 
 - Secure information
 - Provide ongoing network monitoring
@@ -157,21 +157,21 @@ Rules-based monitoring for incoming and outgoing traffic, hardware or software b
 - Keep security features up to date
 - Stability
 
-* Linux 
+### Linux 
 - update doesn't change versions
 - upgrade changes versions
 
-* MacOS and Windows
+### MacOS and Windows
 
 - Automatic or store driven updates
 
-* Android and iOS
+### Android and iOS
 
 - Automatic or store driven updates
 
 ## Device security
 
-# Best practices
+### Best practices
 
 - Passwords and PINs
 - Avoid public connections
@@ -185,7 +185,7 @@ Rules-based monitoring for incoming and outgoing traffic, hardware or software b
 - Block unknown software
 - Separate types of sensible data
 
-* Organizational devices
+### Organizational devices
 
 - Able to remote lock and wipe
 
